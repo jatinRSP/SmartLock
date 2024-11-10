@@ -2,7 +2,7 @@
 
 This project is open-source; modify and use it freely.
 
-Developed by jatin_rsp
+Developed by jatinRSP
 
 # Smart Door Lock System
 
