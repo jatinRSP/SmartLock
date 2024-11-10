@@ -43,6 +43,10 @@ This project demonstrates an RFID-based smart lock system using an Arduino UNO, 
 
 > **Note**: Make sure the MFRC522 module is connected to the 3.3V pin of the Arduino UNO to avoid damage.
 
+## Circuit Diagram
+
+![Circuit Diagram](Circuit.png)
+
 ## Library Installation
 
 Install the **MFRC522** library for RFID functionality:
