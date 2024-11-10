@@ -45,7 +45,7 @@ This project demonstrates an RFID-based smart lock system using an Arduino UNO, 
 
 ## Circuit Diagram
 
-![Circuit Diagram](Circuit Diagram.png)
+![Circuit Diagram](Circuit.png)
 
 ## Library Installation
 
