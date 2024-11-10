@@ -1,4 +1,4 @@
-## License and Author
+# License and Author
 
 This project is open-source; modify and use it freely.
 
